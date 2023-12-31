@@ -18,4 +18,5 @@ Neste projeto foram utilizadas as seguintes tecnologias:
  - Execute __npm install__
  - Execute __npm run dev__
 
+
 ☑️ Código feito com o objetivo de se aprofundar no framework, procurando entender sobre sua estrutura e seguindo as melhores práticas para desenvolvimento de projetos MVC.
