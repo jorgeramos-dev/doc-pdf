@@ -6,7 +6,7 @@
 
 Neste projeto foram utilizadas as seguintes tecnologias:
 
- - Laravel
+ - Laravel 10
  - Bootstrap
 
 ## ▶️ Utilização
